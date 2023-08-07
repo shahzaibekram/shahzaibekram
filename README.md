@@ -2,8 +2,6 @@
 <h3 align="center">DevOps Enthusiast</h3>
 <img align="right" alt="DevOps" width="400" src="https://fusion.works/wp-content/uploads/2023/01/ezgif-4-3288abc425.gif" /> 
 
-- 💬 Ask me about **DevOps & Cloud**
-
 - 📫 How to reach me **shahzebekram2468@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
